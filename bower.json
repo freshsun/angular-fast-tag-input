@@ -1,0 +1,23 @@
+{
+  "name": "angular-fast-tag-input",
+  "version": "0.0.0",
+  "authors": [
+    "freshsun <freshsun@gmail.com>"
+  ],
+  "description": "a simple and fast tag input angular directive",
+  "license": "MIT",
+  "main":[
+    "tag.jade",
+    "tag-input.jade",
+    "tag-input.sass",
+    "tag-input.coffee"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/bower_components",
+    "test",
+    "tests"
+  ]
+}
